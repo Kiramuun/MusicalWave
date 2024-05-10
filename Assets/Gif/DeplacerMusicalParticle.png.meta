@@ -1,0 +1,1077 @@
+fileFormatVersion: 2
+guid: 869651561da149e4c9bc22ff5146fef9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4690
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33edd8734764b1243827204f12293501
+      internalID: 118084117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_1
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4690
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f35b0797f55447a6adc6ea3a8553c
+      internalID: 1420094353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_2
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4690
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90402964c35895b46bacac36d065bf07
+      internalID: 1325639594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_3
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 4690
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb46a2709066c4087603116e28359b
+      internalID: -1923544723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_4
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 4690
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1a3c44104592048aadcd7da8786a3a
+      internalID: -253893096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_5
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 4690
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deee6d59620198a49a457717084e8a8c
+      internalID: 900725186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_6
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 4690
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9734d7187bf373458b47b880b501f1b
+      internalID: -794634947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3752
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bc815815de000449151c8a30047269
+      internalID: -1301933668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_8
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 3752
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a917ae8f9bed224aa56b59624668486
+      internalID: -372062946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_9
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3752
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb2b175a6a22bf48b6f4601c9fa6137
+      internalID: 1502529746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_10
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 3752
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5758b43a5ca6a084ea1339478f448235
+      internalID: 861873402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_11
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 3752
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d43d85f3a92a5a4f83992e2dd522627
+      internalID: -1246313863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_12
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 3752
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07d6d6c57681b94682854c8a3da1bc8
+      internalID: -1154434334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_13
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 3752
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8c6bae7c48464689f384c6735f152
+      internalID: 87477632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2814
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0392de02bc51449bd7188eb4024895
+      internalID: 2083899598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2814
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d418c8ec1c714d74481a2328d955b35b
+      internalID: 780333313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_16
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2814
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a19819a73441409d835c57ba7bf8b
+      internalID: 463175669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_17
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 2814
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aec2cf01b1864646bdc57a7c94a9cd4
+      internalID: 470957939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_18
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 2814
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03437e0f8c6fede40add8b0a6ecc188f
+      internalID: -489249666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_19
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 2814
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bc29d54df320d43866ca506d57304a
+      internalID: 2141762904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_20
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 2814
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a2867373289540a9eb9debe6db494
+      internalID: 65004981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1876
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac29bc22aa70294fa52e34bbb1b8066
+      internalID: -802292467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_22
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1876
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685ef4941a344d43a58e3faf91067ae
+      internalID: -520737573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_23
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1876
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680e9c00dfbb4fd4fa776b25e80b5ad2
+      internalID: 1313522134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_24
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 1876
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d72df41678c1f418c65cf7e3317a4a
+      internalID: -397116398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_25
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 1876
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9480a7abbca92ba4a98d1a977feffa89
+      internalID: 1198962363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_26
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 1876
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912695c2e03fef94ba97c36d6b029a20
+      internalID: 88941474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_27
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 1876
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c3e201afca3f145adc91c287e60fa4
+      internalID: -2141283838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4afa702f97e63a4b8029d338850b9ff
+      internalID: -1371374974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 938
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37340727d34e434d9b3cb47a9577f40
+      internalID: 753262831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_30
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 938
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ab76942be10e41aff800643925d5c
+      internalID: -1832343119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_31
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 938
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb61bea81be9c7f449abb7067bdef19f
+      internalID: 2113490590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_32
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 938
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513af1a529e67cc41ab658bd9006c9ff
+      internalID: -1973644473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_33
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 938
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b0f78c16f3c20479daf4c1bdbd009f
+      internalID: 1265507567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_34
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 938
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572a4ca0a143d404586b1dc8e16de4e7
+      internalID: -1467729796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352010d6069b8bf42949c73fe51a3954
+      internalID: -2038750341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_36
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77104afefa9a6c34f860af3bad3d0b30
+      internalID: -1116312123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_37
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 0
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8bae0e47a416e4684fcfccdd4f0456
+      internalID: -1773124078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_38
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 0
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81897c41322bfc7409d8798d28c9b730
+      internalID: -128820479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_39
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d93627e296b5474e83968eff7949f0b
+      internalID: -1532820241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_40
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd4720fd11fff4a93a686e0a27517a
+      internalID: 87154362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeplacerMusicalParticle_41
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 0
+        width: 1680
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36057de8f6640a489abdb9e022a1c1e
+      internalID: 339502663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DeplacerMusicalParticle_0: 118084117
+      DeplacerMusicalParticle_1: 1420094353
+      DeplacerMusicalParticle_10: 861873402
+      DeplacerMusicalParticle_11: -1246313863
+      DeplacerMusicalParticle_12: -1154434334
+      DeplacerMusicalParticle_13: 87477632
+      DeplacerMusicalParticle_14: 2083899598
+      DeplacerMusicalParticle_15: 780333313
+      DeplacerMusicalParticle_16: 463175669
+      DeplacerMusicalParticle_17: 470957939
+      DeplacerMusicalParticle_18: -489249666
+      DeplacerMusicalParticle_19: 2141762904
+      DeplacerMusicalParticle_2: 1325639594
+      DeplacerMusicalParticle_20: 65004981
+      DeplacerMusicalParticle_21: -802292467
+      DeplacerMusicalParticle_22: -520737573
+      DeplacerMusicalParticle_23: 1313522134
+      DeplacerMusicalParticle_24: -397116398
+      DeplacerMusicalParticle_25: 1198962363
+      DeplacerMusicalParticle_26: 88941474
+      DeplacerMusicalParticle_27: -2141283838
+      DeplacerMusicalParticle_28: -1371374974
+      DeplacerMusicalParticle_29: 753262831
+      DeplacerMusicalParticle_3: -1923544723
+      DeplacerMusicalParticle_30: -1832343119
+      DeplacerMusicalParticle_31: 2113490590
+      DeplacerMusicalParticle_32: -1973644473
+      DeplacerMusicalParticle_33: 1265507567
+      DeplacerMusicalParticle_34: -1467729796
+      DeplacerMusicalParticle_35: -2038750341
+      DeplacerMusicalParticle_36: -1116312123
+      DeplacerMusicalParticle_37: -1773124078
+      DeplacerMusicalParticle_38: -128820479
+      DeplacerMusicalParticle_39: -1532820241
+      DeplacerMusicalParticle_4: -253893096
+      DeplacerMusicalParticle_40: 87154362
+      DeplacerMusicalParticle_41: 339502663
+      DeplacerMusicalParticle_5: 900725186
+      DeplacerMusicalParticle_6: -794634947
+      DeplacerMusicalParticle_7: -1301933668
+      DeplacerMusicalParticle_8: -372062946
+      DeplacerMusicalParticle_9: 1502529746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
